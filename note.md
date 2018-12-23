@@ -1,0 +1,4 @@
+- nDPI 对 encrypted traffic 不管用
+- 收集数据：Despite the limitations, capturing data of each class in a controlled environment has been the most commonly-adopted strategy in practice.
+- 用flow做可能可以免疫无用的包
+- Time Series+Header 经常来分类encrypted流量
