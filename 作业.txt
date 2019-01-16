@@ -1,0 +1,43 @@
+1.8
+随机过程前三章复习
+MLAPP看
+随机过程最后一章看
+
+
+
+
+思路是：
+
+目前工作：
+两个思路：
+NLP 文本分类和信息抽取的方法用到网络流量分类上
+
+1、做packet embedding
+2、上深度学习的tranformer attention
+
+结合incremntal learning
+狄利克雷过程聚类
+
+
+
+1、 学习word embedding和文本分类的方法原理，看一些文本分类的论文
+      学相应的库进行实践
+      **然后把他用到流量分类上，想想怎么用，晚上可以好好想想
+
+2、 如果不行，再尝试深度学习的transformer
+
+3、 incremental learning的一些模型学习(iCaRL)，复现出来iCaRL
+      这就需要学习pytorch搭建神经网络
+
+
+
+
+So，目前的科研工作安排：
+1、 word embedding 和 text classification 看懂，实现
+2、 pytorch搭建神经网络，CNN，RNN都搞定
+3、 iCaRL 看懂复现，当然也得靠2
+
+抓紧呀，效果不错就开始尝试用到论文上了！
+
+预计回家之前能完成?
+
